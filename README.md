@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This C program explores the properties of Pokemon by allowing users to perform queries on a CSV file containing Pokemon data. The program consists of a client-server architecture, where the server (Pokemon Property Server - PPS) is responsible for managing Pokemon data, and the client (Pokemon Query Client - PQC) enables users to interact with the server remotely.
+This C program explores the properties of Pokemon by allowing users to perform queries on a CSV file containing Pokemon data. The program consists of a client-server architecture, where the server (Pokemon Property Server - PPS) is responsible for managing Pokemon data, and the client (Pokemon Query Client - PQC) enables users to interact with the server remotely. Utilizing multi-threading, the program enhances responsiveness.
 
 ## How to Run
 
